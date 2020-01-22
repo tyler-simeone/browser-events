@@ -1,0 +1,11 @@
+#article-container {
+    display: flex;
+}
+#first-article {
+    width: 50%;
+    border: 1px solid red;
+}
+#second-article {
+    width: 50%;
+    border: 1px solid blue;
+}
